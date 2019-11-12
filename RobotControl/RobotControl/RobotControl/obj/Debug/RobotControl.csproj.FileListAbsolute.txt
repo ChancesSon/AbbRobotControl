@@ -1,0 +1,15 @@
+D:\code\Cshap\RobotControl\RobotControl\bin\Debug\RobotControl.exe.config
+D:\code\Cshap\RobotControl\RobotControl\bin\Debug\RobotControl.exe
+D:\code\Cshap\RobotControl\RobotControl\bin\Debug\RobotControl.pdb
+D:\code\Cshap\RobotControl\RobotControl\bin\Debug\ABB.Robotics.Controllers.PC.dll
+D:\code\Cshap\RobotControl\RobotControl\bin\Debug\RobotStudio.Services.RobApi.dll
+D:\code\Cshap\RobotControl\RobotControl\bin\Debug\RobotStudio.Services.RobApi.Desktop.dll
+D:\code\Cshap\RobotControl\RobotControl\bin\Debug\ABB.Robotics.Controllers.PC.xml
+D:\code\Cshap\RobotControl\RobotControl\obj\Debug\RobotControl.Form1.resources
+D:\code\Cshap\RobotControl\RobotControl\obj\Debug\RobotControl.Properties.Resources.resources
+D:\code\Cshap\RobotControl\RobotControl\obj\Debug\RobotControl.csproj.GenerateResource.cache
+D:\code\Cshap\RobotControl\RobotControl\obj\Debug\RobotControl.csproj.CoreCompileInputs.cache
+D:\code\Cshap\RobotControl\RobotControl\obj\Debug\RobotControl.csproj.CopyComplete
+D:\code\Cshap\RobotControl\RobotControl\obj\Debug\RobotControl.exe
+D:\code\Cshap\RobotControl\RobotControl\obj\Debug\RobotControl.pdb
+D:\code\Cshap\RobotControl\RobotControl\obj\Debug\RobotControl.csprojAssemblyReference.cache
